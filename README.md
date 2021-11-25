@@ -1,1 +1,2 @@
 This is a basic crud application made using json server and react.js it includes diffrent modules including login logout and other functionalities to add users and their personal ,banking information also their are other modules including client project and department made for demonstrating crud operations at diffrent levels.
+To run this application just pull the code and run npm install then run command npm run start to start the app on local host
